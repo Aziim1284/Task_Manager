@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aziim1284/Shopping_Cart/static/css/main.3ec53787.css",
+    "main.js": "/Aziim1284/Shopping_Cart/static/js/main.34e5d74f.js",
+    "index.html": "/Aziim1284/Shopping_Cart/index.html",
+    "main.3ec53787.css.map": "/Aziim1284/Shopping_Cart/static/css/main.3ec53787.css.map",
+    "main.34e5d74f.js.map": "/Aziim1284/Shopping_Cart/static/js/main.34e5d74f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec53787.css",
+    "static/js/main.34e5d74f.js"
+  ]
+}
